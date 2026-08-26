@@ -1,0 +1,20 @@
+{
+  "name": "picsee-gallery",
+  "version": "1.0.0",
+  "description": "A curated, responsive visual gallery with an editorial feel, built with HTML5, CSS3, and Vanilla JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "dev": "npx http-server -p 8080"
+  },
+  "keywords": [
+    "gallery",
+    "photography",
+    "portfolio",
+    "vanilla-js",
+    "responsive",
+    "editorial"
+  ],
+  "author": "CodeAlpha",
+  "license": "MIT"
+}
